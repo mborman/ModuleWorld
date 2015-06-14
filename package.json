@@ -1,0 +1,22 @@
+{
+  "name": "ModuleWorld",
+  "version": "0.0.1",
+  "description": "This Module will return the word \"world\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mborman/ModuleWorld.git"
+  },
+  "author": "Mike Borman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mborman/ModuleWorld/issues"
+  },
+  "homepage": "https://github.com/mborman/ModuleWorld",
+  "dependencies": {
+    "amdefine": "^0.1.1"
+  }
+}
